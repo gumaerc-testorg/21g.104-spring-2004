@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cd8db91f-4f0f-5996-058a-0b6c42e78284
 resourcetype: Document
 title: Microsoft Word - L-11wenti
 uid: 7a259a66-406b-218a-80db-3dec3fb79d29

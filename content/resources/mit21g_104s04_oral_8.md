@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 089253e4-71b5-1481-b530-7c5b1a92c7a7
 resourcetype: Document
 title: Microsoft Word - oral 8
 uid: 94fbcae9-e49d-2baa-ce96-1e0ced81fe14

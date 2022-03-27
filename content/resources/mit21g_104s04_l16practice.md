@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 54fa2f0c-7196-596a-1d19-85b2292772fd
 resourcetype: Document
 title: Microsoft Word - Lesson 16 and 17 Oral Practice
 uid: 69bd16dd-453d-1f60-760f-6b17a9a28fd1
