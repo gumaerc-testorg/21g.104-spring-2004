@@ -1,14 +1,14 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: cd8db91f-4f0f-5996-058a-0b6c42e78284
 ---
 
-{{< anchor "Top" >}}{{< /anchor >}}[Homework assignments](#homework) are available for this course. Materials for oral, grammar, and character practice as well as a listing of discussion board topics are available in the {{< resource_link 089253e4-71b5-1481-b530-7c5b1a92c7a7 "study materials" >}} section of this course.
+{{< anchor "Top" >}}{{< /anchor >}}[Homework assignments](#homework) are available for this course. Materials for oral, grammar, and character practice as well as a listing of discussion board topics are available in the {{% resource_link 089253e4-71b5-1481-b530-7c5b1a92c7a7 "study materials" %}} section of this course.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -927,7 +927,7 @@ Prepare your Final Project
 {{< anchor "homework" >}}{{< /anchor >}}Homework
 ------------------------------------------------
 
-{{< resource_link 7a259a66-406b-218a-80db-3dec3fb79d29 "Lesson 11 (PDF)" >}}  
-{{< resource_link 11deb02d-6eb5-d5c7-ff12-c2dd27a76c7b "Lesson 12 (PDF)" >}}  
-{{< resource_link b47ee81d-852c-8c66-7602-c58eb27069cc "Lesson 13 (PDF)" >}}  
-{{< resource_link 3de0efdb-2f8c-7ed9-47c7-7455bd186597 "Lesson 14 (PDF)" >}}
+{{% resource_link 7a259a66-406b-218a-80db-3dec3fb79d29 "Lesson 11 (PDF)" %}}  
+{{% resource_link 11deb02d-6eb5-d5c7-ff12-c2dd27a76c7b "Lesson 12 (PDF)" %}}  
+{{% resource_link b47ee81d-852c-8c66-7602-c58eb27069cc "Lesson 13 (PDF)" %}}  
+{{% resource_link 3de0efdb-2f8c-7ed9-47c7-7455bd186597 "Lesson 14 (PDF)" %}}
