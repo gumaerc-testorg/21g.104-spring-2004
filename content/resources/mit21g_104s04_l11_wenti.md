@@ -5,6 +5,7 @@ file: /courses/21g-104-chinese-iv-regular-spring-2004/7a259a66406b218a80db3dec3f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Microsoft Word - L-11wenti
 uid: 7a259a66-406b-218a-80db-3dec3fb79d29
 ---
 This file contains information regarding lesson 11.
-
