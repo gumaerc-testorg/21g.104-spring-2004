@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ce5d516b-c78b-db5c-8018-70a1d7137899
 ---
@@ -12,7 +15,7 @@ Lectures: 4 sessions / week, 1 hour / session
 Course Description
 ------------------
 
-This is the continuing instruction in listening, spoken, reading, and written Chinese, with particular emphasis on consolidating basic conversational skills and improving reading confidence and depth. Lab work is required. Intermediate Chinese I, II and III form a sequence; the Fall semester subject [21G.103](/courses/21g-103-chinese-iii-regular-fall-2003/) is prerequisite for the Spring. Students who have completed the streamlined sequence [21G.107](/courses/21g-107-chinese-i-streamlined-fall-2014/) - [21G.108](/courses/21g-108-chinese-ii-streamlined-spring-2015/) are not normally eligible for this subject.
+This is the continuing instruction in listening, spoken, reading, and written Chinese, with particular emphasis on consolidating basic conversational skills and improving reading confidence and depth. Lab work is required. Intermediate Chinese I, II and III form a sequence; the Fall semester subject [21G.103](/courses/21g-103-chinese-iii-regular-fall-2003) is prerequisite for the Spring. Students who have completed the streamlined sequence [21G.107](/courses/21g-107-chinese-i-streamlined-fall-2014) - [21G.108](/courses/21g-108-chinese-ii-streamlined-spring-2015) are not normally eligible for this subject.
 
 Upon completion of the course, students should be able to speak Chinese with some fluency on basic conversational topics, achieve a basic level of reading competence within simplified and traditional characters learned plus common compounds, and be able to write short compositions.
 

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 54fa2f0c-7196-596a-1d19-85b2292772fd
 ---
@@ -30,12 +34,12 @@ ASSOCIATED FILES
 Intoduction
 {{< tdclose >}}
 {{< tdopen >}}
-L101.gif ([GIF]({{< baseurl >}}/resources/l101))  
-L102.gif ([GIF]({{< baseurl >}}/resources/l102))  
-L103.gif ([GIF]({{< baseurl >}}/resources/l103))  
-L104.gif ([GIF]({{< baseurl >}}/resources/l104))  
-L105.gif ([GIF]({{< baseurl >}}/resources/l105))  
-L106.gif ([GIF]({{< baseurl >}}/resources/l106))
+L101.gif ({{% resource_link d9dce853-e35a-f58b-e2dc-f5660c9dd179 "GIF" %}})  
+L102.gif ({{% resource_link ec4a5f89-d1bf-7d84-a50e-4d0307c3e75f "GIF" %}})  
+L103.gif ({{% resource_link 3a4c331a-95de-f097-8c4f-2508107e9073 "GIF" %}})  
+L104.gif ({{% resource_link 103a3456-c648-e363-5460-32e1b7eb31f1 "GIF" %}})  
+L105.gif ({{% resource_link 50d57932-7ae6-9719-b532-eb68087af042 "GIF" %}})  
+L106.gif ({{% resource_link cc897275-7719-ca15-3546-02e5ef865912 "GIF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,12 +51,12 @@ L106.gif ([GIF]({{< baseurl >}}/resources/l106))
 Lesson 10
 {{< tdclose >}}
 {{< tdopen >}}
-L111.gif ([GIF]({{< baseurl >}}/resources/l111))  
-L112.gif ([GIF]({{< baseurl >}}/resources/l112))  
-L113.gif ([GIF]({{< baseurl >}}/resources/l113))  
-L114.gif ([GIF]({{< baseurl >}}/resources/l114))  
-L115.gif ([GIF]({{< baseurl >}}/resources/l115))  
-L116.gif ([GIF]({{< baseurl >}}/resources/l116))
+L111.gif ({{% resource_link 1cd2fe97-657f-0f45-6dc0-41761a08ef0e "GIF" %}})  
+L112.gif ({{% resource_link 9ddda8b1-82f8-b637-0cce-54664857b6fa "GIF" %}})  
+L113.gif ({{% resource_link 0839c2f6-4ddd-9875-3330-ad2e86345692 "GIF" %}})  
+L114.gif ({{% resource_link 3a966038-29c5-6176-40b1-53724548b648 "GIF" %}})  
+L115.gif ({{% resource_link 31633399-6226-681c-8080-7be0ead0e0f3 "GIF" %}})  
+L116.gif ({{% resource_link bc8c0691-deb4-8898-78c6-46273ed18c7d "GIF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +128,7 @@ Lesson 15
 Lesson 16
 {{< tdclose >}}
 {{< tdopen >}}
-[L16Practice.pdf (PDF)]({{< baseurl >}}/resources/mit21g_104s04_l16practice)
+{{% resource_link 69bd16dd-453d-1f60-760f-6b17a9a28fd1 "L16Practice.pdf (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
