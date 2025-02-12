@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This file contains information regarding lesson 12.
-file: /courses/21g-104-chinese-iv-regular-spring-2004/11deb02d6eb5d5c7ff12c2dd27a76c7b_MIT21G_104S04_L12_wenti.pdf
+file: /ol-ocw-studio-app/courses/21g-104-chinese-iv-regular-spring-2004/11deb02d6eb5d5c7ff12c2dd27a76c7b_MIT21G_104S04_L12_wenti.pdf
+file_size: 92715
 file_type: application/pdf
 learning_resource_types:
 - Assignments
